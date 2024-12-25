@@ -50,21 +50,12 @@ Messaging and posting functionality for Second account <br/>
 <img src="https://i.imgur.com/T8pkKJv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-qr code generated outside the system, Notiffy not registered:  
-<br/>
-<img src="https://i.imgur.com/jWYpbJJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Access the first account to view posts and reply to messages.<br/>
+<img src="https://i.imgur.com/ASjH8C1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ea1rxw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Time_in and Time_out:  <br/>
-<img src="https://i.imgur.com/dcAVNzV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uiVE8Hu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Record form and Export to excel:  <br/>
-<img src="https://i.imgur.com/Kl2W8Iy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/vsq7z5i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-</p>
+
 
 <!--
  ```diff
