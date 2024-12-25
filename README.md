@@ -25,7 +25,7 @@ Creating a Mobile Application for Campus Communication with Real-Time Messaging 
 <h2>Limitation</h2>
 
 - <b>Limited to 10 Accounts in the Initial Implementation.</b>
-- <b>Currently Under Development/b> 
+- <b>Currently Under Development and Contains Numerous Bugs.</b> 
 
 
 <h2>Environments Used </h2>
@@ -37,7 +37,7 @@ Creating a Mobile Application for Campus Communication with Real-Time Messaging 
 
 <p align="center">
 Launch the Application: <br/>
-<img src="https://i.imgur.com/qPjANiT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QJCcUVk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Register Authorization:  <br/>
