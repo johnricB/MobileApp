@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Creating a Mobile Application for Campus Communication with Real-Time Messaging and Individualized Posting. 
+I chose to create a Mobile Application for Campus Communication with Real-Time Messaging and Individualized Posting.
 <br />
 
 
