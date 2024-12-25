@@ -1,35 +1,37 @@
-<h1>2nd_year, 1stSem Application Project QRcode Attendance Monitoring System</h1>
+<h1>Third-Year, First Semester Application Project: Mobile Campus Social Media</h1>
 
 
 
 <h2>Description</h2>
-Designing an attendance system for 7-Eleven involves creating a reliable and efficient solution to track and manage employee attendance. 
+Creating a Mobile Application for Campus Communication with Real-Time Messaging and Individualized Posting. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>c# using visual studio 2019</b>
+- <b>Flutter</b>
+- <b>Firebase</b>
 
 
 <h2>Scope</h2>
 
-- <b>monitor attendance</b>
-- <b>register new employee</b>
-- <b>removing non-existing employee</b>
-- <b>admin - controlled security</b>
-- <b>qr code</b>
-- <b>print copy of records</b>
+- <b>Real-time Messaging</b>
+- <b>Real-time Posting</b>
+- <b>Private Messaging</b>
+- <b>Reactions</b>
+- <b>Post Comments</b>
+- <b>Individual Accounts</b>
 
 <h2>Limitation</h2>
 
-- <b>calculate payroll/wage for employee</b>
-- <b>internet connection</b> 
+- <b>Limited to 10 Accounts in the Initial Implementation.</b>
+- <b>Currently Under Development/b> 
 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> 
+- <b>Android</b>
+- <b>Apple</b> 
 
 <h2>Program walk-through:</h2>
 
