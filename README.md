@@ -45,7 +45,7 @@ Creating two separate accounts <br/>
 <img src="https://i.imgur.com/zzIcKdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Messaging and posting functionality for Second account <br/>
+Messaging and posting functionality using the Second Account<br/>
 <img src="https://i.imgur.com/MGywKvX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/T8pkKJv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
