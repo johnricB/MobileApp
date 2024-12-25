@@ -1,4 +1,4 @@
-<h1>Third-Year, First Semester Application Project: Mobile Campus Social Media</h1>
+<h1>Third-Year, First Semester Individual Application Project: Mobile Campus Social Media</h1>
 
 
 
