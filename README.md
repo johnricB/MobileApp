@@ -45,9 +45,9 @@ Creating two separate accounts <br/>
 <img src="https://i.imgur.com/zzIcKdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Registration Form,Generating QRcode,Saved QRcode: <br/>
-<img src="https://i.imgur.com/abIokUZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/zzIcKdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Messaging and posting functionality for Second account <br/>
+<img src="https://i.imgur.com/MGywKvX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T8pkKJv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 qr code generated outside the system, Notiffy not registered:  
