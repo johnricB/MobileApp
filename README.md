@@ -40,13 +40,14 @@ Launch the Application: <br/>
 <img src="https://i.imgur.com/QJCcUVk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Register Authorization:  <br/>
-<img src="https://i.imgur.com/e7CblYW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating two separate accounts <br/>
+<img src="https://i.imgur.com/gPyH1a9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/gPyH1a9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Registration Form,Generating QRcode,Saved QRcode: <br/>
 <img src="https://i.imgur.com/abIokUZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/pxPCb6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zzIcKdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 qr code generated outside the system, Notiffy not registered:  
