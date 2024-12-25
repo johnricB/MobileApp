@@ -31,7 +31,7 @@ Creating a Mobile Application for Campus Communication with Real-Time Messaging 
 <h2>Environments Used </h2>
 
 - <b>Android</b>
-- <b>Apple</b> 
+- <b>iOS</b> 
 
 <h2>Program walk-through:</h2>
 
